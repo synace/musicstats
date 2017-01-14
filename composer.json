@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MusicStats\\": "src/MusicStats/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "electrolinux/phpquery": "^0.9.6",
+        "lstrojny/functional-php": "^1.4"
+    }
+}
